@@ -48,7 +48,7 @@
 - [So long](https://github.com/VernihoraIvan/42Berlin_so_long) 2D game
 - [Minitalk](https://github.com/VernihoraIvan/42Berlin_minitalk) Communication between two programs using UNIX signals
 - [Printf](https://github.com/VernihoraIvan/42Berlin_printf) My implementation of the printf function
-- [Printf](https://github.com/VernihoraIvan/42Berlin_get_next_line) My implementation of a function that returns a line, read from a file descriptor.
+- [Get next line](https://github.com/VernihoraIvan/42Berlin_get_next_line) My implementation of a function that returns a line, read from a file descriptor.
 - [Libft](https://github.com/VernihoraIvan/42Berlin_libft) My implementation of some of the Standard C Library functions
 
 <br/>
