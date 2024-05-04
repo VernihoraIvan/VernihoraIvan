@@ -4,7 +4,7 @@
 <p align="center"> 
   <samp>
     <br>
-    Highly motivated Frontend Developer with a passion for creating intuitive user interfaces with more than 5 years experience in engineering industry. Proficient in modern web technologies such as HTML, CSS3, JavaScript, TypeScript, React, Redux, and NodeJs. I am looking for a challenging opportunity to apply my expertise in a quality-oriented company and contribute to continuous improvement and shared success. Eager to learn and adapt to new technologies and best practices in the fast advancing field of frontend development. Currently a student at 42 Berlin – coding hub and one of the most innovative campuses in the world that is a part of the 42 Network.
+    Highly motivated Frontend Developer with a passion for creating intuitive user interfaces. Proficient in modern web technologies such as HTML, CSS3, JavaScript, TypeScript, React, Redux, and NodeJs. I am looking for a challenging opportunity to apply my expertise in a quality-oriented company and contribute to continuous improvement and shared success. Eager to learn and adapt to new technologies and best practices in the fast-advancing field of frontend development. Currently a student at 42 Berlin – a coding hub and one of the most innovative campuses in the world that is a part of the 42 Network.
     <br>
     <br>
   </samp>
