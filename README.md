@@ -20,7 +20,7 @@
 </p>
 <br />
 
-## Use To Code
+## Tech Stack
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -37,5 +37,24 @@
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Unix](https://img.shields.io/badge/unix-%2300599C.svg?&style=for-the-badge&logo=unix%2B%2B&logoColor=white)
 
 <br/>
+
+## My 42Berlin projects:
+
+- [Push swap](https://github.com/VernihoraIvan/42BerlinPush_Swap) Sorting algorithm
+- [So long](https://github.com/VernihoraIvan/42Berlin_so_long) 2D game
+- [Minitalk](https://github.com/VernihoraIvan/42Berlin_minitalk) Communication between two programs using UNIX signals
+- [Printf](https://github.com/VernihoraIvan/42Berlin_printf) My implementation of the printf function
+- [Printf](https://github.com/VernihoraIvan/42Berlin_get_next_line) My implementation of a function that returns a line, read from a file descriptor.
+- [Libft](https://github.com/VernihoraIvan/42Berlin_libft) My implementation of some of the Standard C Library functions
+
+<br/>
+
+## My personal projects:
+
+- [Movie search](https://github.com/VernihoraIvan/movie-search) A web application that allows users to search information about movies, actors,release dates, genres, and ratings.
+- [Healthy Hub](https://github.com/VernihoraIvan/HealthyHub_group) Whether you want to track your daily calorie intake, monitor your water consumption, or set fitness goals, HealthyHub has you covered.
+- [TruScape](https://github.com/VernihoraIvan/TruScape_CRM) A simple SRM platform with a dashboard and statistics
