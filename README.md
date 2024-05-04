@@ -42,6 +42,12 @@
 
 <br/>
 
+## Personal projects:
+
+- [Movie search](https://github.com/VernihoraIvan/movie-search) A web application that allows users to search information about movies, actors,release dates, genres, and ratings.
+- [Healthy Hub](https://github.com/VernihoraIvan/HealthyHub_group) Whether you want to track your daily calorie intake, monitor your water consumption, or set fitness goals, HealthyHub has you covered.
+- [TruScape](https://github.com/VernihoraIvan/TruScape_CRM) A simple SRM platform with a dashboard and statistics
+
 ## My 42Berlin projects:
 
 - [Push swap](https://github.com/VernihoraIvan/42BerlinPush_Swap) Sorting algorithm
@@ -51,10 +57,4 @@
 - [Get next line](https://github.com/VernihoraIvan/42Berlin_get_next_line) My implementation of a function that returns a line, read from a file descriptor.
 - [Libft](https://github.com/VernihoraIvan/42Berlin_libft) My implementation of some of the Standard C Library functions
 
-<br/>
 
-## My personal projects:
-
-- [Movie search](https://github.com/VernihoraIvan/movie-search) A web application that allows users to search information about movies, actors,release dates, genres, and ratings.
-- [Healthy Hub](https://github.com/VernihoraIvan/HealthyHub_group) Whether you want to track your daily calorie intake, monitor your water consumption, or set fitness goals, HealthyHub has you covered.
-- [TruScape](https://github.com/VernihoraIvan/TruScape_CRM) A simple SRM platform with a dashboard and statistics
