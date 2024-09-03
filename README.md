@@ -50,6 +50,7 @@
 
 ## My 42Berlin projects:
 
+- [Minishell](https://github.com/VernihoraIvan/42Berlin_minishell) My implementation of Shell
 - [Push swap](https://github.com/VernihoraIvan/42BerlinPush_Swap) Sorting algorithm
 - [So long](https://github.com/VernihoraIvan/42Berlin_so_long) 2D game
 - [Minitalk](https://github.com/VernihoraIvan/42Berlin_minitalk) Communication between two programs using UNIX signals
