@@ -4,7 +4,7 @@
 <p align="center"> 
   <samp>
     <br>
-    Highly motivated Software Developer with a passion for creating intuitive user interfaces. Proficient in modern web technologies such as JavaScript, TypeScript, C/C++, React, Next.js, Redux, and NodeJs. I am looking for a challenging opportunity to apply my expertise in a quality-oriented company and contribute to continuous improvement and shared success. Eager to learn and adapt to new technologies and best practices in the fast-advancing field of frontend development. Currently a student at 42 Berlin – a coding hub and one of the most innovative campuses in the world that is a part of the 42 Network.
+I'm a full-stack developer with a passion for building scalable and performant applications, diving into modern web technologies, and exploring the possibilities of AI integration in apps. My tech stack includes TypeScript, React, Next.js, Zustand, Redux for the frontend, and Node.js, NestJS, and Express.js for the backend. I also have experience with systems programming in C and C++. I studied at 42 Berlin, where I honed my problem-solving skills and explored low-level programming. Recently, I've been diving deeper into AI/ML and its applications in real-world projects. Always eager to learn and grow, I'm excited about connecting with others who share a curiosity for tech and AI.
     <br>
     <br>
   </samp>
@@ -41,21 +41,5 @@
 ![Unix](https://img.shields.io/badge/unix-%2300599C.svg?&style=for-the-badge&logo=unix%2B%2B&logoColor=white)
 
 <br/>
-
-## Personal projects:
-
-- [Movie search](https://github.com/VernihoraIvan/movie-search) A web application that allows users to search information about movies, actors,release dates, genres, and ratings.
-- [Healthy Hub](https://github.com/VernihoraIvan/HealthyHub_group) Whether you want to track your daily calorie intake, monitor your water consumption, or set fitness goals, HealthyHub has you covered.
-- [TruScape](https://github.com/VernihoraIvan/TruScape_CRM) A simple SRM platform with a dashboard and statistics
-
-## My 42Berlin projects:
-
-- [Minishell](https://github.com/VernihoraIvan/42Berlin_minishell) My implementation of Shell
-- [Push swap](https://github.com/VernihoraIvan/42BerlinPush_Swap) Sorting algorithm
-- [So long](https://github.com/VernihoraIvan/42Berlin_so_long) 2D game
-- [Minitalk](https://github.com/VernihoraIvan/42Berlin_minitalk) Communication between two programs using UNIX signals
-- [Printf](https://github.com/VernihoraIvan/42Berlin_printf) My implementation of the printf function
-- [Get next line](https://github.com/VernihoraIvan/42Berlin_get_next_line) My implementation of a function that returns a line, read from a file descriptor.
-- [Libft](https://github.com/VernihoraIvan/42Berlin_libft) My implementation of some of the Standard C Library functions
 
 
